@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Humans",
+    "price": 11,
+    "description": "Humans are the most diverse and capable of all the races. They have the most balanced stats and the largest selection of available classes. Although Humans were created by Gran Kain, they worship Einhasad, the Goddess of Light.",
+    "canPurchase": true,
+    "soldOut": true,
+    "images": [
+      "rsc/88.gif",
+      "rsc/89.gif",
+      "rsc/90.gif",
+      "rsc/91.gif",
+      "rsc/92.gif",
+      "rsc/93.gif",
+      "rsc/94.gif",
+      "rsc/95.gif",
+      "rsc/96.gif",
+      "rsc/97.gif",
+      "rsc/98.gif"
+    ],
+    "reviews": [
+      {
+        "stars": 3,
+        "body": "Belicos y adaptativos",
+        "author": "uno@alpha.com"
+      },
+      {
+        "stars": 4,
+        "body": "Intolerantes y beligerantes",
+        "author": "dos@alpha.com"
+      }
+    ]
+  },
+  {
+    "name": "Elfs",
+    "price": 7,
+    "description": "Elves were born of water, making them fluid, agile, and infused with good magic. Deeply in tune with the forces of nature, they worship Eva,the second Goddess of Water. Elves excel at beneficial magic, archery, and singing above all.",
+    "canPurchase": true,
+    "soldOut": true,
+    "images": [
+      "rsc/99.gif",
+      "rsc/100.gif",
+      "rsc/101.gif",
+      "rsc/102.gif",
+      "rsc/103.gif",
+      "rsc/104.gif",
+      "rsc/105.gif"
+    ],
+    "reviews": [
+      {
+        "stars": 1,
+        "body": "Armoniosos y pacificos",
+        "author": "tres@alpha.com"
+      },
+      {
+        "stars": 2,
+        "body": "Bellos y artisticos",
+        "author": "cuatro@alpha.com"
+      }
+    ]
+  },
+  {
+    "name": "Dark Elfs",
+    "price": 7,
+    "description": "Dark Elves excel at the dark arts, including death magic and shadow empowerment. Dark Elves were once part of the Elf race. They split off to pursue their worship of Shilen and dark magic, but Shilen proved to be too evil, and the Dark Elves now stand on their own.",
+    "canPurchase": true,
+    "soldOut": true,
+    "images": [
+      "rsc/106.gif",
+      "rsc/107.gif",
+      "rsc/108.gif",
+      "rsc/109.gif",
+      "rsc/110.gif",
+      "rsc/111.gif",
+      "rsc/112.gif"
+    ],
+    "reviews": [
+      {
+        "stars": 1,
+        "body": "Malignos y despiadados",
+        "author": "cinco@alpha.com"
+      },
+      {
+        "stars": 3,
+        "body": "Instintivo y apaticos",
+        "author": "seis@alpha.com"
+      }
+    ]
+  },
+  {
+    "name": "Orcs",
+    "price": 4,
+    "description": "Orcs were created by fire to be a race of undying strength and stamina, worshiping the God of Fire, Pa-agrio. Once servants of the Giants, Orcs are powerful warriors and shamans.",
+    "canPurchase": true,
+    "soldOut": true,
+    "images": [
+      "rsc/113.gif",
+      "rsc/114.gif",
+      "rsc/115.gif",
+      "rsc/116.gif"
+    ],
+    "reviews": [
+      {
+        "stars": 1,
+        "body": "Belicos y fuertes",
+        "author": "siete@alpha.com"
+      },
+      {
+        "stars": 3,
+        "body": "Poderosos y Naturales",
+        "author": "ocho@alpha.com"
+      }
+    ]
+  },
+  {
+    "name": "Dwarfs",
+    "price": 2,
+    "description": "Dwarves were made from and worship the God of Earth Maphyr. Their heartiness makes them excel at crafting, resource gathering, and heavy combat. Their prowess allows them to take on multiple enemies at once.",
+    "canPurchase": true,
+    "soldOut": true,
+    "images": [
+      "rsc/117.gif",
+      "rsc/118.gif"
+    ],
+    "reviews": [
+      {
+        "stars": 2,
+        "body": "Artistas y artesanos",
+        "author": "nueve@alpha.com"
+      },
+      {
+        "stars": 3,
+        "body": "Fuertes y tercos",
+        "author": "dies@alpha.com"
+      }
+    ]
+  },
+  {
+    "name": "Kamaels",
+    "price": 4,
+    "description": "Kamaels were created by the gods as living combat weapons, but the rest of their origin is shrouded in mystery. They worship Mother Nornil. Their strange background grants them different abilities depending on their gender, and their specialization in soul magic makes them the only Fighter race that can later become a Wizard.",
+    "canPurchase": true,
+    "soldOut": true,
+    "images": [
+      "rsc/131.gif",
+      "rsc/132.gif",
+      "rsc/134.gif",
+      "rsc/136.gif"
+    ],
+    "reviews": [
+      {
+        "stars": 5,
+        "body": "Maravillozos y graciles",
+        "author": "once@alpha.com"
+      },
+      {
+        "stars": 5,
+        "body": "Poderosos y sublimes",
+        "author": "doce@alpha.com"
+      }
+    ]
+  }
+]

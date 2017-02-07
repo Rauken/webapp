@@ -1,0 +1,37 @@
+<!doctype html>
+<html ng-app="store">
+  <head>
+  	<meta charset="UTF-8"/>
+    <!-- Bootstrap v3.3.7 -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- AngularJS v1.6.1 -->
+    <script type="text/javascript" src="js/angular.min.js"></script>
+    <script type="text/javascript" src="app/app.js"></script>
+    <script type="text/javascript" src="app/directives.js"></script>
+    <script type="text/javascript" src="app/controllers.js"></script>
+  </head>
+
+  <body ng-controller="StoreController as store">
+
+    <div class="list-group">
+      <div  class="list-group-item" ng-repeat="product in store.products">
+        <h1>{{product.name}}</h1>
+        
+        
+          <section class="tab" ng-controller="PanelController as panel">
+		
+			<ul class="nav nav-pills" ng-include="'templates/nav-pills.html'"></ul>
+
+            <div class="panel" ng-show="panel.isSelected(1)" ng-include="'templates/product-description.html'"></div>
+
+            <div class="panel" ng-show="panel.isSelected(2)" ng-include="'templates/product-classes.html'"></div></br>
+
+            <div class="panel" ng-show="panel.isSelected(3)" ng-include="'templates/product-reviews.html'"></div>
+         
+          </section>
+
+      <div>
+    </div>
+  </body>
+</html>
